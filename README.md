@@ -75,7 +75,3 @@ Durante o desenvolvimento e homologação da arquitetura, enfrentei e superei de
 | **Security** | **AWS IAM** | Controle de acesso baseado em papéis (*Roles*) e políticas de recurso. |
 
 ---
-
-## 📈 Resultados Alcançados* **Tempo Médio de Detecção (MTTD):** Reduzido de **horas** (checagem manual) para **menos de 3 minutos**.
-* **Custo da Solução:** Praticamente **zero**, aproveitando o nível gratuito e a arquitetura *Serverless* que só cobra pela execução do processamento.
-* **C
